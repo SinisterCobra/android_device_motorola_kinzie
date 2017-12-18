@@ -6,7 +6,7 @@ Device configuration for Moto X Force (2015)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 2.0 GHz ARM® Cortex™ A57 and quad-core 1.5 GHz ARM® Cortex™ A53
-CHIPSET | Qualcomm MSM8992 Snapdragon 810
+CHIPSET | Qualcomm MSM8994 Snapdragon 810
 GPU     | Adreno 430
 Memory  | 3GB
 Shipped Android Version | 5.1.1
